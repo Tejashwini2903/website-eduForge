@@ -1,0 +1,126 @@
+#title
+{
+  background-color: #e4eaec;
+}
+h1 {
+  font-family: "Anta", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container-fluid{
+  padding:3%,15%;
+}
+
+.text{
+  text-align: center;
+  padding-top: 50px;
+}
+
+
+.logo{
+  width: 240px;
+  z-index: 5;
+  
+}
+
+.navbar {
+  background-color:#e4eaec;
+  font-size: medium;
+}
+
+.nav-link{
+  color:#2B2A4C;
+  font-weight: bold;
+  font-size: x-large;
+}
+
+.nav-link:hover{
+  color:rgb(32, 1, 61);
+}
+
+body{
+  font-family:"Anta", sans-serif;
+
+}
+
+.title-image{
+ width:60%; 
+}
+
+.features{
+ padding: 7% 15%;
+
+}
+
+#testimonials{
+  padding:7% 15%;
+  text-align: center;
+  padding:3%,15%;
+  background-color:#e4eaec;
+  color:#070F2B;
+  font-family: "Madimi One", sans-serif; 
+}
+
+#press{
+  background-color:#e4eaec;
+  text-align: center;
+  padding-bottom: 15% 15% 15%;
+}
+
+h3{
+  font-weight: bold;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  color:#35374B;
+}
+
+#features{
+  padding: 7%,15%;
+  text-align: center;
+  color:#1B3C73;
+}
+
+.icon{
+  color:#070F2B
+}
+
+.icon:hover{
+  color:#F0F0F0;
+}
+
+.testimonial-image{
+  width:25% ;
+  border-radius: 100%;
+  margin: 3%;
+}
+
+h2{
+  font-size:3rem;
+}
+.press-logo{
+  width:18%;
+  margin:10px 10px 10px;
+}
+
+#pricing{
+  text-align: center;
+  padding: 80px;
+
+}
+
+.card-deck{
+  padding: 5px;
+}
+
+#cta{
+  text-align: center;
+  background-color:#e4eaec;
+}
+
+#footer{
+  background-color:#e4eaec;
+}
